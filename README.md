@@ -2,4 +2,4 @@
 JeHoBen Git example 
 We are trying repository for the Git tutorial IT 332: Integrative Programming and Technologies
 
-Stop look listen and learn - JeHoBen(2024)
+Stop look, listen, and learn. hehe - JeHoBen(2024)
